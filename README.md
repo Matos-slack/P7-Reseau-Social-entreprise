@@ -17,7 +17,7 @@ Télécharger le repository et suivez les instructions ci-après pour installer 
 * Tapez votre mot de passe 
 * Créez la base de données : `CREATE DATABASE groupomania_database CHARACTER SET 'utf8';`
 * Utilisez la base de données créée : `USE groupomania_database`
-* Importez le fichier groupomania_database.sql : `SOURCE groupomania_database.sql;` (utiliser le chemin complet si pb avec cette commande ex: C:/utilisateur/mondossier/groupomania_database.sql)
+* Importez le fichier groupomania_database.sql : `SOURCE groupomania_database.sql;` (utiliser le chemin complet si pb avec cette commande ex: SOURCE C:/utilisateur/mondossier/groupomania_database.sql)
 * Dans le dossier backend, allez dans le fichier connectdb.js et renseignez votre mot de passe dans password:'xxxxxx'
 
 ## Installation et démarrage du Backend
